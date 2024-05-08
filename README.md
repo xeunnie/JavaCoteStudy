@@ -1,7 +1,7 @@
-# javastudy
+# Java Study <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"> 
 > Beyound SW 6기 코테 스터디입니다.
 <br>
-코딩테스트를 위한 JAVA 알고리즘 스터디입니다.
+<p>코딩테스트를 위한 JAVA 알고리즘 스터디입니다.</p>
 
 ### Members
 <table>
