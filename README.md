@@ -32,6 +32,9 @@
     <td align="center">
       <a href="https://github.com/yuzzin0121">최승은</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/subi930">최수빈</a>
+    </td>
   </tr>
 </table>
 <br>
