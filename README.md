@@ -1,5 +1,5 @@
 # Java Study <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"> 
-> Beyound SW 6기 코테 스터디입니다.
+> Beyound SW 6기 코딩 테스트 스터디입니다.
 <br>
 <p>코딩테스트를 위한 JAVA 알고리즘 스터디입니다.</p>
 
@@ -74,3 +74,6 @@ ex) Create 정수 제곱근 판별 songyeon.java
 
 **java 파일 경로** | `javastudy/사이트명(영어)/문제레벨(영어)/문제이름/이름(영어).java`<br> 
 ex) javastudy/Programmers/L1/정수_제곱근_판별/songyeon.java
+
+**commit** | `feature/seung` <br>
+ex) feature/seung01
