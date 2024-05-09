@@ -26,6 +26,11 @@
         <img src="https://avatars.githubusercontent.com/u/125132754?v=4" width="100" style="max-width: 100%;">
       </a>
     </td>
+    <td>
+      <a href="https://github.com/706com">
+        <img src="https://avatars.githubusercontent.com/u/104816530?v=4" width="100" style="max-width: 100%;">
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -39,6 +44,9 @@
     </td>
     <td align="center">
       <a href="https://github.com/subi930">최수빈</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/subi930">곽동현</a>
     </td>
   </tr>
 </table>
