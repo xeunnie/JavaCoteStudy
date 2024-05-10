@@ -70,7 +70,7 @@ ex) [프로그래머스] L1 - 정수 제곱근 판별
 ex) [PGS] 정수 제곱근 판별
 
 **Commit** | `커밋내용 문제이름 이름(영어).java`<br> 
-ex) Create 정수 제곱근 판별 songyeon.java
+ex) add: 정수 제곱근 판별.java
 
 **java 파일 경로** | `이름(이니셜)/사이트명(영어)/문제레벨(영어)/문제이름.java`<br> 
 ex) syy0O/Programmers/L1/정수_제곱근_판별.java
