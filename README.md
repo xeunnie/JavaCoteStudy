@@ -37,16 +37,16 @@
       <a href="https://github.com/syy0O">유송연</a>
     </td>
     <td align="center">
-      <a href="https://github.com/HyunaJo">서시현</a>
+      <a href="https://github.com/SihyunSeo">서시현</a>
     </td>
     <td align="center">
-      <a href="https://github.com/yuzzin0121">최승은</a>
+      <a href="https://github.com/xeunnie">최승은</a>
     </td>
     <td align="center">
       <a href="https://github.com/subi930">최수빈</a>
     </td>
     <td align="center">
-      <a href="https://github.com/subi930">곽동현</a>
+      <a href="https://github.com/706com">곽동현</a>
     </td>
   </tr>
 </table>

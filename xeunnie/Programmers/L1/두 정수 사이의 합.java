@@ -1,4 +1,4 @@
-package xeunnie.Programmers.L1;
+package xeunnie;
 
 class Solution {
     public long solution(int a, int b) {
