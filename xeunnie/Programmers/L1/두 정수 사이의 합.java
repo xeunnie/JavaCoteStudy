@@ -11,7 +11,6 @@ class Solution {
                 num += i;
             }
         }
-
         return num;
     }
 }
