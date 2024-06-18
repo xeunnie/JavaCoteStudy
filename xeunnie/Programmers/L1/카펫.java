@@ -1,4 +1,4 @@
-package xeunnie.Programmers.L1;
+
 
 public class 카펫 {
     public static int[] solution(int brown, int yellow) {

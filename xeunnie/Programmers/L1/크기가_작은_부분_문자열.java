@@ -1,4 +1,4 @@
-package xeunnie.Programmers.L1;
+
 
 public class 크기가_작은_부분_문자열 {
     public static int solution(String t, String p) {

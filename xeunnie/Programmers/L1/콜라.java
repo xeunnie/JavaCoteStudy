@@ -1,4 +1,4 @@
-package xeunnie.Programmers.L1;
+
 
 public class 콜라 {
     public static int solution(int a, int b, int n) {

@@ -1,4 +1,4 @@
-package xeunnie.Programmers.L1;
+
 class Solution {
     public long solution(long n) {
         int x = (int)Math.sqrt(n);
