@@ -1,4 +1,4 @@
-package xeunnie.Programmers;
+package xeunnie.Programmers.L1;
 
 import java.util.ArrayList;
 import java.util.Collections;
